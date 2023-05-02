@@ -1,0 +1,16 @@
+{
+  "tables": [
+    {
+      "tableName": "users",
+      "position": {
+      "x": 10.0,
+      "y": 10.0
+    },
+    "columns": [{
+      "name": "username",
+      "type": "String",
+      "description": "Columns storage username of user"
+    }]
+    }
+  ]
+}
